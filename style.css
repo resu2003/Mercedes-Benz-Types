@@ -39,8 +39,8 @@ body {
   left: 0;
   width: 100%;
   opacity: 0;
-  background-color: rgba(229, 235, 243, 0.8);
-  color: #495b73;
+  background-color: rgba(229, 235, 243, 0.301);
+  color: #344d6e;
   padding: 1rem;
   line-height: 1.3;
 }
